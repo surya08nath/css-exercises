@@ -1,7 +1,12 @@
 .a{
-    background-color: red;
+    background-color: black;
+    color: white;
+    font-size: x-large;
 }
 
 .b{
     background-color: yellow;
+    color: black;
+    border: solid 1px black;
+    font-size: x-large;
 }
